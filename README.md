@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **Python**
+- 🌱 I’m currently learning **Electrical Engineering**
+- 💬 Ask me about love affairs🐶
+- 📫 How to reach me: 632826792@qq.com
+- ⚡ Fun fact: Love to dance without music
+
+
 <!--
 **Dr-Left/Dr-Left** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
