@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **Python**
 - 🌱 I’m currently learning **Electrical Engineering**
-- 💬 Ask me about love affairs🐶
-- 📫 How to reach me: 632826792@qq.com
-- ⚡ Fun fact: Love to dance without music
+- 💬 Ask me about my favorite song🎤🎼
+- 📫 How to reach me: zuojw21@mails.tsinghua.edu.cn
+- ⚡ Fun fact: Love to say anyway in many ways
 
 
 <!--
