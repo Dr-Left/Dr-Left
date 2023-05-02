@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Python**
-- 🌱 I’m currently learning **Electrical Engineering**
+- 🔭 I’m currently working on **Generative Agents**
+- 🌱 I’m currently learning **Electrical Engineering & Physics**
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: zuojw21@mails.tsinghua.edu.cn
 - ⚡ Fun fact: Love to say anyway in many ways
