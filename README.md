@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Generative Agents**
-- 🌱 I’m currently learning **Electrical Engineering & Physics**
+- 🔭 Lately I am doing **Multiagnets**
+- 🌱 Currently majored in  **Electrical Engineering & Math, Physics** (Undergraduate junior) in Tsinghua University
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: zuojw21@mails.tsinghua.edu.cn
 - ⚡ Fun fact: Love to say anyway in many ways
-
+- Currently in Northeastern University for a one-semester exchange
 
 <!--
 **Dr-Left/Dr-Left** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
