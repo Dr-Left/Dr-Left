@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Lately I am doing **Multiagnets**
+- 🔭 Lately I am doing **Multiagents**
 - 🌱 Currently majored in  **Electrical Engineering & Math, Physics** (Undergraduate junior) in Tsinghua University
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: zuojw21@mails.tsinghua.edu.cn
