@@ -2,7 +2,7 @@
 
 - 🔭 Lately I am doing **Multiagents**
 - 🌱 Currently major in  **Electrical Engineering & Math, Physics** (Undergraduate junior) in Tsinghua University
-- Currently in Northeastern University for a one-semester exchange
+- ✈ Currently in Northeastern University, Boston, MA, USA for a one-semester exchange
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: zuojw21@mails.tsinghua.edu.cn / zuo.jing@northeastern.edu
 - ⚡ Fun fact: Love to say anyway in many ways
