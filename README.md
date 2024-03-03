@@ -2,7 +2,7 @@
 
 - 🔭 Lately I am doing **Efficient AI** in MIT HanLab
 - 🌱 Currently major in  **Electrical Engineering & Math, Physics** (Undergraduate junior) in Tsinghua University
-- ✈ Currently in Northeastern University, Boston, MA, USA for an one-semester exchange
+- ✈  Have been to Northeastern University, Boston, MA, USA for an one-semester exchange
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: zuojw21@mails.tsinghua.edu.cn / zuo.jing@northeastern.edu
 - ⚡ Fun fact: Love to say anyway in many ways
