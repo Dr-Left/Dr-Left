@@ -6,6 +6,7 @@
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: naohzjw@gmail.com
 - ⚡ Fun fact: Love to say anyway in many ways
+  
 [![Jingwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-left)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Dr-Left/Dr-Left** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
