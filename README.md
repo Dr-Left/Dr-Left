@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Lately I am doing **Efficient LLM**
-- 🌱 Currently major in  **Electrical Engineering & Math, Physics** in Tsinghua University
+- 🌱 Currently a PhD student at Computer Science Department, Rice University
 - ✈  Have been to Northeastern University, Boston, MA, USA for an one-semester exchange
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: naohzjw@gmail.com
